@@ -1,0 +1,5 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.0
+# 接 Gemini 時先加官方 SDK（動工時對返當時版本）：
+# google-genai
